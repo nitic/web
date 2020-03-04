@@ -1,0 +1,1 @@
+rework.common.init();
